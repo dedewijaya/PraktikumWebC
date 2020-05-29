@@ -1,0 +1,13 @@
+Mahasiswa
+nama = I Gede Bagus Semara Wijaya
+username = 1708561048 
+pass = dede1234
+
+Dosen:
+nama = Gede Adi Pramana 
+username = 1231231231 
+pass = adi12345
+
+Admin: 
+username = 1234512345
+pass = admin123
